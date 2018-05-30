@@ -40,6 +40,9 @@ set options like this:
 
 ```js
 {
-  pxtorem: { rootValue: 50 } // base font-size is 50px
+  loader: 'okwzh-css-loader',
+  options: {
+    pxtorem: { rootValue: 50 } // base font-size is 50px
+  }
 }
 ```
