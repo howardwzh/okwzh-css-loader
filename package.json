@@ -1,10 +1,16 @@
 {
   "name": "okwzh-css-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple loader for test",
   "main": "index.js",
   "author": "howard",
   "license": "MIT",
+  "keywords": [
+    "css",
+    "pxtorem",
+    "webpack",
+    "webpack-loader"
+  ],
   "dependencies": {
     "loader-utils": "^1.1.0",
     "path": "^0.12.7"
